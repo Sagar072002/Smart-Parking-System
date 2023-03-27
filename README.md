@@ -49,3 +49,20 @@ vehicles might not collide.
 1. CONNECTION OF IR SENSORS WITH ESP MODULE
 ![circuit1](https://user-images.githubusercontent.com/100076307/227828850-a04f6c2f-7b0e-4cf4-8a2b-20c45360c65e.png)
 
+2. CONNECTION OF IR SENSORS AND SERVO MOTOR WITH ARDUINO
+![circuit2](https://user-images.githubusercontent.com/100076307/227828979-3fdd8a07-3949-49d9-b9dc-9f0243dec5e4.png)
+
+
+**Images from the Project**:
+![diag1](https://user-images.githubusercontent.com/100076307/227829152-463f3d0e-33da-4dc4-b155-6cc3f8dbf51d.png)
+
+**SLOTS EMPTY**:
+![diag2](https://user-images.githubusercontent.com/100076307/227829305-89dfdedc-d5f7-44a7-90d2-16d707188f71.png)
+
+
+**SLOTS FULL**:
+![diag3](https://user-images.githubusercontent.com/100076307/227829321-e9cd5cff-3f49-44ae-a977-3f2a7c9ff450.png)
+
+
+
+
