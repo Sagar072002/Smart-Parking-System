@@ -29,6 +29,7 @@ the servo motor will not rotate thus ensuring that both the
 vehicles might not collide.
 
 **Requirements**:
+
 **Hardware requirements**:
 1. ARDUINO UNO
 2. LED
