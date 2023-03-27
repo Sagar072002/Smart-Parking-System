@@ -38,6 +38,8 @@ vehicles might not collide.
 6. B-TYPE CABLE
 7. BREADBOARD
 8. JUMPER WIRES
+
+
     a. MALE TO MALE JUMPER WIRES
     b. MALE TO FEMALE JUMPER WIRES
 
